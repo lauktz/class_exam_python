@@ -1,0 +1,9 @@
+[
+    {"Problem": "Engine", "Price": 2000},
+    {"Problem": "Breaks", "Price": 1000},
+    {"Problem": "5000 km treatment", "Price": 500},
+    {"Problem": "10,000 km treatment", "Price": 1000},
+    {"Problem": "Filters + Oil", "Price": 250},
+    {"Problem": "Gear", "Price": 1000}
+
+]
